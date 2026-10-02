@@ -16,20 +16,20 @@
       <GameCard imageSrc="GzOUm3.png"
                 title="DashFire"
                 genre="Shoot 'em up (2026)"
-                description="Coming soon!"
+                description="A shoot 'em up game with a focus on fast-paced action and challenging gameplay, made in a team of 5 during a school gamejam. Winner of the second 2026 HvA Playful Tech Gamejam (Gamefeel Category)."
                 itchLink="https://ben-dros.itch.io/dashfire-day-1-patch-edition" />
       <!-- Game Card -->
       <GameCard imageSrc="peaceful delivery.png"
                 title="Peaceful Delivery"
                 genre="Action? (2026)"
-                description="Coming soon!"
+                description="An action racing game where you have to clean the streets of the food raining from the sky, made in a team of 5 during a school gamejam. Winner of the first 2026 HvA Playful Tech Gamejam (People's Choice Category)."
                 itchLink="https://shinyoshawott.itch.io/peaceful-delivery" />
       <!-- Game Card -->
       <GameCard imageSrc="AfGH7t.png"
                 title="Water Waker"
                 genre="2D Physics Puzzle (2026)"
                 description="A small 2D water physics puzzle game made for NEMO Science Museum."
-                itchLink="" :disabled="true" />
+                itchLink="https://waterwaker.nl" />
       <!-- Game Card -->
       <GameCard imageSrc="4CRt7_.png"
                 title="SpaceCube"
