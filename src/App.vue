@@ -13,11 +13,23 @@
 
       <h2>Games</h2>
       <!-- Game Card -->
+      <GameCard imageSrc="GzOUm3.png"
+                title="DashFire"
+                genre="Shoot 'em up (2026)"
+                description="Coming soon!"
+                itchLink="https://ben-dros.itch.io/dashfire-day-1-patch-edition" />
+      <!-- Game Card -->
+      <GameCard imageSrc="peaceful delivery.png"
+                title="Peaceful Delivery"
+                genre="Action? (2026)"
+                description="Coming soon!"
+                itchLink="https://shinyoshawott.itch.io/peaceful-delivery" />
+      <!-- Game Card -->
       <GameCard imageSrc="AfGH7t.png"
                 title="Water Waker"
                 genre="2D Physics Puzzle (2026)"
-                description="Coming soon!"
-                itchLink="":disabled="true"/>
+                description="A small 2D water physics puzzle game made for NEMO Science Museum."
+                itchLink="" :disabled="true" />
       <!-- Game Card -->
       <GameCard imageSrc="4CRt7_.png"
                 title="SpaceCube"
